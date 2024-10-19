@@ -41,7 +41,7 @@ This project is an AI-powered platform that allows individuals and communities t
 
  ## DataSets Untilization 
 
-- EPA Carbon Emissions Data      - Data from the U.S. Environmental Protection Agency (EPA) on carbon emissions across various sectors (transportation, energy, industry) to provide benchmarks for personal and community-level carbon footprints.
+- EPA Carbon Emissions Data      - Data from the U.S. Environmental Protection Agency (EPA) on carbon emissions across various sectors (transportation, energy, industry) to provide benchmarks for personal and community-level carbon footprints.[Link](https://www.epa.gov/system/files/other-files/2024-10/2023_data_summary_spreadsheets.zip)
 -  Energy Consumption Data      - Data on local and regional energy usage trends, especially from renewable and non-renewable sources, to help individuals optimize their energy consumption and make sustainable energy choices.
 -  Co2_FootPrints Data               -The co2_footprints dataset is designed to track and analyze individual and community carbon footprints, supporting data-driven decision-making to combat climate change. This dataset enables users to log their activities, assess their CO2 emissions, and engage in collective actions that contribute to environmental sustainability.
 
