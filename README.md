@@ -5,40 +5,37 @@ This project is an AI-powered platform that allows individuals and communities t
 
 ## Tech Stack
 
-AI/ML: Jupyter Notebook, Python (for data preprocessing, model development), Machine Learning model development (LSTM for time-series forecasting)
-Data Sources: Public carbon emissions datasets (CO2 Emissions Data, EPA Greenhouse Gas Reporting Program, World Energy Consumption)
-Frontend: React.js, HTML, CSS (User Interface for tracking eco-points, personal dashboard, and visualizations)
-Backend: Python (Flask for API creation, model serving)
-Database: (Optional) SQLite or PostgreSQL for storing user data, eco-points history, and community footprint metrics
+- AI/ML: Jupyter Notebook, Python (for data preprocessing, model development), Machine Learning model development (LSTM for time-series forecasting)
+- Data Sources: Public carbon emissions datasets (CO2 Emissions Data, EPA Greenhouse Gas Reporting Program, World Energy Consumption)
+- Frontend: React.js, HTML, CSS (User Interface for tracking eco-points, personal dashboard, and visualizations)
+- Backend: Python (Flask for API creation, model serving)
+- Database: (Optional) SQLite or PostgreSQL for storing user data, eco-points history, and community footprint metrics
 
 ## Project Structure
-## Frontend:
-
-   ## Technology: Built using React.js.
-    Purpose: The frontend provides an intuitive user interface where individuals can:
-        Input their daily activities (e.g., energy consumption, transportation habits).
-        View real-time personal carbon footprint metrics.
-        Track eco-points earned through eco-friendly actions.
-        Visualize community carbon footprint data through interactive charts and maps.
-        Receive personalized recommendations for reducing emissions based on past activities and forecasted trends.
+# Frontend:
+## Technology: Built using React.js.
+## Purpose: The frontend provides an intuitive user interface where individuals can:
+- Input their daily activities (e.g., energy consumption, transportation habits).
+- View real-time personal carbon footprint metrics.
+- Track eco-points earned through eco-friendly actions.
+- Visualize community carbon footprint data through interactive charts and maps.
+- Receive personalized recommendations for reducing emissions based on past activities and forecasted trends.
 
 ## Backend:
-
   ##  Technology: Developed in Python using the Flask framework.
-    Purpose: The backend processes user activity data and integrates it with external datasets, including public carbon emissions data. It provides:
-        Data Processing: Real-time feedback and personalized suggestions for reducing carbon footprints.
-        Machine Learning: Forecasting future carbon emissions using time-series models (LSTM).
-        API Endpoints: Exposes APIs that the frontend can call for predictions, eco-point calculations, and community metrics.
-        Integration: Combines personal user data with large-scale datasets to offer insights and community comparisons.
+- Purpose: The backend processes user activity data and integrates it with external datasets, including public carbon emissions data. It provides:
+- Data Processing: Real-time feedback and personalized suggestions for reducing carbon footprints.
+- Machine Learning: Forecasting future carbon emissions using time-series models (LSTM).
+- API Endpoints: Exposes APIs that the frontend can call for predictions, eco-point calculations, and community metrics.
+- Integration: Combines personal user data with large-scale datasets to offer insights and community comparisons.
 
 
 ## Features
-
-    Personal Carbon Footprint Tracking: Users can input their daily activities, such as energy consumption, and track their CO2 emissions.
-    Community Engagement: Users can view and compare their footprint to others in their community, fostering friendly competition.
-    Personalized Recommendations: Based on user data and future predictions, the platform provides actionable insights for reducing personal emissions.
-    Machine Learning Predictions: Using time-series forecasting (LSTM), the platform predicts future emissions trends, helping users plan their sustainability efforts.
-    Eco-points Gamification: Users are rewarded for sustainable actions with eco-points that can be redeemed for rewards, further encouraging eco-conscious behavior.
+- Personal Carbon Footprint Tracking: Users can input their daily activities, such as energy consumption, and track their CO2 emissions.
+- Community Engagement: Users can view and compare their footprint to others in their community, fostering friendly competition.
+- Personalized Recommendations: Based on user data and future predictions, the platform provides actionable insights for reducing personal emissions.
+- Machine Learning Predictions: Using time-series forecasting (LSTM), the platform predicts future emissions trends, helping users plan their sustainability efforts.
+- Eco-points Gamification: Users are rewarded for sustainable actions with eco-points that can be redeemed for rewards, further encouraging eco-conscious behavior.
 
 
  ## DataSets Untilization 
