@@ -31,6 +31,7 @@ This project is an AI-powered platform that allows individuals and communities t
 
 
 ## Features
+
 - Personal Carbon Footprint Tracking: Users can input their daily activities, such as energy consumption, and track their CO2 emissions.
 - Community Engagement: Users can view and compare their footprint to others in their community, fostering friendly competition.
 - Personalized Recommendations: Based on user data and future predictions, the platform provides actionable insights for reducing personal emissions.
@@ -82,9 +83,9 @@ python app.py
 
 ## Future Improvements
 
-    IoT Integration: Real-time tracking of carbon emissions from smart devices such as energy meters and smart thermostats.
-    Mobile App: Develop a mobile app to allow users to track their emissions and eco-points on the go.
-    Enhanced Machine Learning Models: Incorporating more advanced models to provide deeper insights into emissions and energy-saving opportunities.
+- IoT Integration: Real-time tracking of carbon emissions from smart devices such as energy meters and smart thermostats.
+- Mobile App: Develop a mobile app to allow users to track their emissions and eco-points on the go.
+- Enhanced Machine Learning Models: Incorporating more advanced models to provide deeper insights into emissions and energy-saving opportunities.
 
 
 
