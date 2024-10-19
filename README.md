@@ -55,28 +55,25 @@ This project is an AI-powered platform that allows individuals and communities t
 ## Installation & Setup
 ## 1. Clone the Repository:
 
-bash
-
+```bash
 git clone https://github.com/your-username/eco-citizenship-platform.git
-
+```
 ## 2. Frontend Setup:
 
-bash
-
+```bash
 cd frontend/
 npm install
 npm start
-
+```
 ## This will launch the frontend on localhost:3000.
 
 ## 3. Backend Setup:
 
-bash
-
+```bash
 cd backend/
 pip install -r requirements.txt
 python app.py
-
+```
 ## The Flask backend will run on localhost:5000.
 
 
