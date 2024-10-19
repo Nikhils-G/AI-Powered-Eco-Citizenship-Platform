@@ -92,6 +92,19 @@ python app.py
 - Enhanced Machine Learning Models: Incorporating more advanced models to provide deeper insights into emissions and energy-saving opportunities.
 
 
+## FAQs
+
+1. How does the platform calculate carbon emissions?
+
+    The platform uses machine learning models that process user data along with public datasets (EPA, CO2 emissions) to calculate and forecast emissions.
+
+2. Can I use this platform on mobile devices?
+
+    While the current version is optimized for desktop, a mobile app version is in the roadmap.
+
+3. Is there a way to earn more eco-points?
+
+    Yes! You can earn eco-points by reducing energy consumption, switching to renewables, and following the platform's recommendations.
 
 
 
