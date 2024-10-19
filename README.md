@@ -17,10 +17,11 @@ As climate change accelerates, the need to reduce individual and collective carb
 
 ## Tech Stack
 
-- **AI/ML**: IBM Watson, IBM Cloud Pak for Data
+- **AI/ML**: Jupyter Notebook , Machine Learning Model Develoment 
 - **Data Sources**: NASA Earth Data, EPA Carbon Emissions Data
-- **Platform**: Built on IBM Cloud
-
+- **Frontend**: React js , html
+- **Backend**:Python
+  
 ## Project Structure
 
 - **Frontend**: The user interface allows individuals to input their data and track eco-points. It also includes visualizations of personal and community carbon footprints.
