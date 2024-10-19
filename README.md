@@ -12,7 +12,7 @@ This project is an AI-powered platform that allows individuals and communities t
 - Database: (Optional) SQLite or PostgreSQL for storing user data, eco-points history, and community footprint metrics
 
 ## Project Structure
-# Frontend:
+## Frontend:
 ## Technology: Built using React.js.
 ## Purpose: The frontend provides an intuitive user interface where individuals can:
 - Input their daily activities (e.g., energy consumption, transportation habits).
@@ -56,7 +56,7 @@ This project is an AI-powered platform that allows individuals and communities t
 ## 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/eco-citizenship-platform.git
+git clone https://github.com/Nikhil-G/AI-Powered-Eco-Citizenship-Platform.git
 ```
 ## 2. Frontend Setup:
 
@@ -79,6 +79,7 @@ python app.py
 
 ## Usage :
 
+- Input User Data: Users log in to their personal dashboard and input daily activities (e.g., energy usage, transportation).
 - Track Eco-Points: Users earn eco-points for actions such as reducing energy consumption or switching to renewable energ
 - View Carbon Footprint: Visualize personal and community-wide carbon emissions trends with interactive graphs.
 - Receive Recommendations: Based on the user's historical data and forecasted trends, personalized recommendations are provided.
@@ -89,7 +90,6 @@ python app.py
 - IoT Integration: Real-time tracking of carbon emissions from smart devices such as energy meters and smart thermostats.
 - Mobile App: Develop a mobile app to allow users to track their emissions and eco-points on the go.
 - Enhanced Machine Learning Models: Incorporating more advanced models to provide deeper insights into emissions and energy-saving opportunities.
-
 
 
 
