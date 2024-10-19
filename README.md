@@ -45,6 +45,12 @@ This project is an AI-powered platform that allows individuals and communities t
 -  Energy Consumption Data      - Data on local and regional energy usage trends, especially from renewable and non-renewable sources, to help individuals optimize their energy consumption and make sustainable energy choices.
 -  Co2_FootPrints Data               -The co2_footprints dataset is designed to track and analyze individual and community carbon footprints, supporting data-driven decision-making to combat climate change. This dataset enables users to log their activities, assess their CO2 emissions, and engage in collective actions that contribute to environmental sustainability.
 
+## Workflow with model.pkl and scaler.pkl:
+
+- Load the scaler from scaler.pkl to scale input data during prediction.
+- Load the model from model.pkl to make predictions on scaled data.
+-  Use the scaler again to inverse transform the predicted values back to their original scale.
+
 
 ## Installation & Setup
 ## 1. Clone the Repository:
@@ -111,12 +117,6 @@ python app.py
 
 
 
-
-## Workflow with model.pkl and scaler.pkl:
-
-- Load the scaler from scaler.pkl to scale input data during prediction.
-- Load the model from model.pkl to make predictions on scaled data.
--  Use the scaler again to inverse transform the predicted values back to their original scale.
 
 
 
