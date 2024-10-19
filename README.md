@@ -5,11 +5,11 @@ This project is an AI-powered platform that allows individuals and communities t
 
 ## Tech Stack
 
-    AI/ML: Jupyter Notebook, Python (for data preprocessing, model development), Machine Learning model development (LSTM for time-series forecasting)
-    Data Sources: Public carbon emissions datasets (CO2 Emissions Data, EPA Greenhouse Gas Reporting Program, World Energy Consumption)
-    Frontend: React.js, HTML, CSS (User Interface for tracking eco-points, personal dashboard, and visualizations)
-    Backend: Python (Flask for API creation, model serving)
-    Database: (Optional) SQLite or PostgreSQL for storing user data, eco-points history, and community footprint metrics
+AI/ML: Jupyter Notebook, Python (for data preprocessing, model development), Machine Learning model development (LSTM for time-series forecasting)
+Data Sources: Public carbon emissions datasets (CO2 Emissions Data, EPA Greenhouse Gas Reporting Program, World Energy Consumption)
+Frontend: React.js, HTML, CSS (User Interface for tracking eco-points, personal dashboard, and visualizations)
+Backend: Python (Flask for API creation, model serving)
+Database: (Optional) SQLite or PostgreSQL for storing user data, eco-points history, and community footprint metrics
 
 ## Project Structure
 ## Frontend:
