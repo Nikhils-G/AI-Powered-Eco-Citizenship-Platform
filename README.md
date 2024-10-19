@@ -18,7 +18,7 @@ As climate change accelerates, the need to reduce individual and collective carb
 ## Tech Stack
 
 - **AI/ML**: Jupyter Notebook , Machine Learning Model Develoment 
-- **Data Sources**: NASA Earth Data, EPA Carbon Emissions Data
+- **Data Sources**: Carbon Emissions Data
 - **Frontend**: React js , html
 - **Backend**:Python
   
@@ -46,7 +46,7 @@ As climate change accelerates, the need to reduce individual and collective carb
    ```bash
    npm start
    ```
-5.4. Run the application backend:
+5. Run the application backend:
    ```bash
    python app.py
    ```
