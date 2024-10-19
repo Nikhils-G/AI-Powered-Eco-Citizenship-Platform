@@ -12,6 +12,16 @@ This project is an AI-powered platform that allows individuals and communities t
 - Database: (Optional) SQLite or PostgreSQL for storing user data, eco-points history, and community footprint metrics
 
 ## Project Structure
+
+## Model Development:
+
+The machine learning model for carbon emissions forecasting was developed as follows:
+
+- Data Preprocessing: Data from public datasets (EPA, CO2 emissions) and user input are cleaned, scaled, and prepared for training.
+- Time-Series Forecasting: An LSTM (Long Short-Term Memory) neural network was chosen due to its suitability for time-series prediction, enabling accurate forecasting of future carbon emissions.
+- Training & Evaluation: The model was trained using historical emissions data, validated on separate datasets, and fine-tuned for optimal performance.
+- Model Deployment: The trained model, saved as model.pkl, is used in the Flask backend to make real-time predictions and recommendations.
+
 ## Frontend:
 ## Technology: Built using React.js.
 ## Purpose: The frontend provides an intuitive user interface where individuals can:
