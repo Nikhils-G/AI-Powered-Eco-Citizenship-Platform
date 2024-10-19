@@ -18,9 +18,19 @@ As climate change accelerates, the need to reduce individual and collective carb
 
 ## DataSets
 
-The Greenhouse Gas Reporting Program (GHGRP) collects Greenhouse Gas (GHG) data from large emitting facilities, suppliers of fossil fuels and industrial gases that result in GHG emissions when used, and facilities that inject carbon dioxide underground.
+1. The Greenhouse Gas Reporting Program (GHGRP) collects Greenhouse Gas (GHG) data from large emitting facilities, suppliers of fossil fuels and industrial gases that result in GHG emissions when used, and facilities that inject carbon dioxide underground.
 
 [GHGRP Data Summary Spreadsheets](https://www.epa.gov/system/files/other-files/2024-10/2023_data_summary_spreadsheets.zip)
+
+2.Kaggle data Set - Co2_footprints
+3.WordEnergyConsumption Dataset 
+
+
+## Workflow with model.pkl and scaler.pkl:
+
+- Load the scaler from scaler.pkl to scale input data during prediction.
+- Load the model from model.pkl to make predictions on scaled data.
+-  Use the scaler again to inverse transform the predicted values back to their original scale.
 
 ## Tech Stack
 
