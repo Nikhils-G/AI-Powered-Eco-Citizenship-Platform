@@ -7,6 +7,7 @@
 
 As climate change accelerates, the need to reduce individual and collective carbon footprints becomes more critical. This project leverages AI and machine learning (ML) technologies to provide an engaging, data-driven platform for individuals and communities to track and reduce their carbon emissions.
 
+
 ## Key Features
 
 - **Real-time Carbon Emission Tracking**: The platform analyzes daily activities such as transportation, energy consumption, and habits to calculate carbon emissions.
@@ -14,6 +15,12 @@ As climate change accelerates, the need to reduce individual and collective carb
 - **Gamification**: Users earn “eco points” for sustainable actions like using public transportation, renewable energy, or reducing waste. These points can be redeemed for various rewards.
 - **Community Impact Mapping**: Track and compare eco-footprints at the community level to promote competition and collaboration.
 - **Business, Government, and NGO Partnerships**: Incentives for eco-friendly behaviors are offered through collaborations with organizations.
+
+## DataSets
+
+The Greenhouse Gas Reporting Program (GHGRP) collects Greenhouse Gas (GHG) data from large emitting facilities, suppliers of fossil fuels and industrial gases that result in GHG emissions when used, and facilities that inject carbon dioxide underground.
+
+[GHGRP Data Summary Spreadsheets](https://www.epa.gov/system/files/other-files/2024-10/2023_data_summary_spreadsheets.zip)
 
 ## Tech Stack
 
