@@ -41,25 +41,14 @@ As climate change accelerates, the need to reduce individual and collective carb
    ```bash
    npm install
    ```
-4. Run the application:
+4. Run the application frontend:
    ```bash
    npm start
    ```
-5.Run the backend applicaiton Flask
-   app.py
-   .........
-For detailed instructions, refer to the `docs/` folder.
-
-## Usage
-
-Once the platform is set up:
-
-1. **Register** or **log in** to create an account.
-2. Input daily activities to track your carbon footprint.
-3. Follow **personalized recommendations** to reduce emissions.
-4. Earn **eco points** by taking eco-friendly actions.
-5. Redeem your points for rewards offered by participating organizations.
-
+5.4. Run the application backend:
+   ```bash
+   python app.py
+   ```
 ## Contributing
 
 We welcome contributions from the community! To contribute:
@@ -78,14 +67,6 @@ We welcome contributions from the community! To contribute:
    git push origin feature/your-feature
    ```
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Future Scope
-
-The platform aims to expand through partnerships with **smart cities** and **global climate initiatives**, and integrating **IoT devices** to automate sustainable living.
 
 
 
