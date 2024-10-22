@@ -114,29 +114,4 @@ python app.py
 
 3. Is there a way to earn more eco-points?
 
-    Yes! You can earn eco-points by reducing energy consumption, switching to renewables, and following the platform's recommendations.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    Yes!! You can earn eco-points by reducing energy consumption, switching to renewables, and following the platform's recommendations.
